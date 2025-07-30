@@ -1,0 +1,90 @@
+body {
+    font-style: normal;
+    font-weight: 400;
+    text-align: center;
+    background-color: #B0BEC5;
+    /* color: white; */
+}
+
+h1 {
+    background-color: #00897B;
+    color: #FFFFFF;
+    margin: 0;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    height: 220px;
+    width: 340px;
+    justify-content: space-between;
+    margin: 0 auto;
+    
+}
+
+.btn {
+    height: 150px;
+    width: 150px;
+    border: 5px solid black;
+    border-radius: 30%;
+    margin-bottom: 10px;
+}
+
+.red {
+    background-color: #d87093;
+}
+
+.green {
+    background-color: #2ba9a9;
+}
+
+.orange {
+    background-color: #ffa500;
+}
+
+.blue {
+    background-color: #4090e7;
+}
+
+.gameflash {
+    background-color: white;
+}
+
+.userflash {
+    background-color: green;
+}
+
+/* Start & Reset Buttons */
+
+.rsbtns {
+    width: 240px;
+    /* display: inline; */
+    /* justify-content: center; */
+    margin: 150px auto;
+    justify-content: space-between;
+}
+
+.start {
+    height: 50px;
+    width: 80px;
+    background-color: #43A047;
+    color: #FFFFFF;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+.reset {
+    height: 50px;
+    width: 80px;
+    background-color: #EF5350;
+    color: #FFFFFF;
+    border: 3px solid black;
+    border-radius: 10px;
+}
+
+/* For high score display */
+.hScore {
+    margin: 0 auto;
+    background-color: rgb(225, 178, 9);
+    width: 240px;
+}
