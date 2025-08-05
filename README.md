@@ -9,7 +9,7 @@ Test your memory skills by following the sequence of colors and repeating them c
 ---
 
 ## 📸 Screenshot
-![Simon Says Game](D:\Apna College\Front-end\JavaScript\Mini Projects\Simon Game\assets\Screenshot (762).png)
+![Simon Says Game](assets/Screenshot(762).png)
 
 ---
 
