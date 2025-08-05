@@ -9,7 +9,7 @@ Test your memory skills by following the sequence of colors and repeating them c
 ---
 
 ## 📸 Screenshot
-![Simon Says Game](assets/Screenshot(762).png)
+![Simon Says Game](assets/screenshot-762.png)
 
 ---
 
@@ -32,8 +32,9 @@ Test your memory skills by following the sequence of colors and repeating them c
 ## 📂 Project Structure
 ├── index.html # HTML structure
 ├── style.css # CSS styles
-├── app.js # JavaScript logic
-└── Screenshot # Screenshot of the game
+├── script.js # JavaScript logic
+├── assets/
+   └── screenshot-762.png
 
 ---
 
