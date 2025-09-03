@@ -47,4 +47,3 @@ Test your memory skills by following the sequence of colors and repeating them c
 
 ## 📜 License
 This project is open source and available under the **MIT License**.
-
