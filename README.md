@@ -28,8 +28,8 @@ Test your memory skills by following the sequence of colors and repeating them c
 5. Make a mistake, and the game is over.
 
 ---
-```text
 ## 📂 Project Structure
+```text
 ├── index.html # HTML structure
 ├── style.css # CSS styles
 ├── script.js # JavaScript logic
